@@ -1,0 +1,10 @@
+Country:egypt[
+Number of Casualities:8
+vehicle associated:5628
+collisionRoadLocation:Urban Area
+dateAndTime:Sat Nov 04 00:00:00 EET 2023
+[Vehicle number:1234
+driver name:aml
+driver age:45
+driver gender:f
+licenseIssueDate:null]]
